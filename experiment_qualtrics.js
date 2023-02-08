@@ -45,7 +45,7 @@ function assessPerformance() {
   	if (credit_var === true) {
   	  performance_var = total_points
   	} else {
-   	  performance_var = 0
+        performance_var = total_points
   	}
 	jsPsych.data.addDataToLastTrial({"credit_var": credit_var, "performance_var": performance_var})
 
@@ -419,7 +419,7 @@ var post_task_block = {
 
 /* define static blocks */
 var feedback_instruct_text =
-	'Welcome to the experiment. This experiment will take around 20 minutes. Press <strong>enter</strong> to begin.'
+	'Welcome to the task. Press <strong>enter</strong> to begin.'
 var feedback_instruct_block = {
 	type: 'poldrack-text',
 	cont_key: [13],

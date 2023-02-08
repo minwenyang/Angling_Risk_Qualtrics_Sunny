@@ -150,7 +150,7 @@
 
 
 .redfish {
-	 background: url('https://minwenyang.github.io/Angling_Risk_Qualtrics_Sunny/images/fish_icon.png');
+	 background: url('https://minwenyang.github.io/Angling_Risk_Qualtrics_Sunny/images/red_fish.png');
 	 background-size: contain;
 	 width: 2vw;
 	 height:1.4vw;
@@ -158,14 +158,14 @@
 
 
 .bluefish{
-	 background: url('https://minwenyang.github.io/Angling_Risk_Qualtrics_Sunny/images/fish_icon.png');
+	 background: url('https://minwenyang.github.io/Angling_Risk_Qualtrics_Sunny/images/blue_fish.png');
 	 background-size: contain;
 	 width: 2vw;
 	 height:1.4vw;
 }
 
 .greyfish{
-	 content:url('https://minwenyang.github.io/Angling_Risk_Qualtrics_Sunny/images/fish_icon.png');
+	 content:url('https://minwenyang.github.io/Angling_Risk_Qualtrics_Sunny/images/grey_fish.png.png');
 	 width: 2vw;
 	 height:1.4vw;
 }
