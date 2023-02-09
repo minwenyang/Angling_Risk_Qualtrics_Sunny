@@ -482,7 +482,7 @@ var conditions_instructions_block = {
 
 var end_block = {
 	type: 'poldrack-text',
-	text: '<div class = centerbox><p class = center-block-text>Thanks for completing this task! You earned ' + total_points + ' points in total. </p><p class = center-block-text>Press <strong>enter</strong> to begin.</p></div>',
+	text: '<div class = centerbox><p class = center-block-text>Thanks for completing this task! </p><p class = center-block-text>Press <strong>enter</strong> to begin.</p></div>',
 	cont_key: [13],
 	data: {
 		trial_id: "end",
